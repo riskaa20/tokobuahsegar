@@ -77,7 +77,7 @@
                     str_contains($nama, 'nanas') => '🍍',
                     str_contains($nama, 'melon') => '🍈',
                     str_contains($nama, 'pepaya') => '🧡',
-                    default => '🍏'
+                    default => '🥦'
                 };
             }
         @endphp

@@ -47,12 +47,14 @@
 
         <div class="supplier-card">
             <img src="https://cdn-icons-png.flaticon.com/512/1995/1995515.png">
-            <strong>Supplier A</strong>
+            <strong>PT riska</strong>
+            <strong>081280437247</strong>
         </div>
 
         <div class="supplier-card">
             <img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png">
-            <strong>Supplier B</strong>
+            <strong>PT alfin</strong>
+            <strong>082374913747</strong>
         </div>
 
     </div>
